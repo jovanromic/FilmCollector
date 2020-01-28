@@ -1,0 +1,23 @@
+
+recls 100% .NET - http://www.recls.net/
+
+Authors
+=======
+
+Updated:    11th November 2009
+
+
+
+Authors:
+
+  Matthew Wilson
+
+Advice:
+
+	Chris Oldwood
+  Garth Lancaster
+	John O'Halloran
+	Joy Chan
+
+
+=============================== End of file ================================

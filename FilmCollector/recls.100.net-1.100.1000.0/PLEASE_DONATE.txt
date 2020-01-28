@@ -1,0 +1,18 @@
+
+recls 100% .NET - http://www.recls.net/
+
+Please Donate
+=============
+
+Updated:    11th November 2009
+
+
+
+recls 100% .NET is donationware (http://en.wikipedia.org/wiki/Donationware).
+
+If you value the diligence and effort that's gone into bringing you this
+production-quality software, please donate, via:
+
+  http://www.recls.org/donate.html
+
+=============================== End of file ================================

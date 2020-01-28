@@ -1,0 +1,17 @@
+
+recls 100% .NET - http://www.recls.net/
+
+FAQ
+===
+
+Updated:    11th November 2009
+
+
+
+The FAQ list is under (constant) development. If you post a question on the
+Help forum (https://sourceforge.net/projects/recls/forums/forum/466960) it
+will be used to create one.
+
+
+
+=============================== End of file ================================

@@ -1,0 +1,25 @@
+
+recls 100% .NET - http://www.recls.net/
+
+Install
+=======
+
+Updated:    11th November 2009
+
+
+
+recls 100% .NET does not require any installation. It is a strongly-named
+(signed) assembly, so may be used in either of the following circumstances:
+
+ (a) in the Global Assembly Cache
+ 
+  see http://msdn.microsoft.com/en-us/library/dkkx7f79.aspx
+
+
+ (b) as a local file in the project directory
+
+  see http://msdn.microsoft.com/en-us/library/s1sx4kfb.aspx
+
+
+
+=============================== End of file ================================

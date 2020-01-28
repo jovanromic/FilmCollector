@@ -1,0 +1,52 @@
+
+recls 100% .NET - http://www.recls.net/
+
+Known Issues
+============
+
+Updated:    11th November 2009
+
+
+
+recls 100% .NET 1.100 Known Issues:
+-----------------------------------
+
+ * The current version does not support the specification of sub-directories
+   as part of the patterns parameter. For example, with the C/C++ version of
+	 recls (see http://www.recls.org/), you can search for .DLL files in
+	 C:\Windows\System and .EXE files in in C:\Windows\System32, you may
+	 specify a search directory/patterns as follows:
+
+    Recls_Search("C:\\Windows", "System\\*.dll|System32\\*.exe", ...)
+
+   With recls 100% .NET, you might expect to be able to follow similar
+	 semantics, as in:
+
+	   FileSearcher.Search(@"C:\Windows", @"System\*.dll|System32\*.exe")
+
+	 The current version of recls 100% .NET does not support this. Instead,
+	 you will have to conduct two separate searches, as in:
+
+	   FileSearcher.Search(@"C:\Windows\System", @"*.dll")
+
+	   FileSearcher.Search(@"C:\Windows32", @"*.exe")
+
+   A later version will add this support. (If you wish to sponsor the
+	 introduction of this functionality, look at the donation information in
+	 the PLEASE_DONATE.txt file in this package.)
+
+
+	 NOTE: Multipart patterns that do not contain sub-directories *are*
+	 supported in recls 100% .NET, as in:
+
+
+	   FileSearcher.Search(@"C:\Windows", @"*.dll|*.exe")
+
+
+
+recls 100% .NET 0.4 Suspected Defects:
+--------------------------------------
+
+ <none>
+
+=============================== End of file ================================

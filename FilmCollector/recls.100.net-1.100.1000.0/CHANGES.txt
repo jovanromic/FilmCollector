@@ -1,0 +1,21 @@
+
+recls 100% .NET - http://www.recls.net/
+
+Changes
+=======
+
+Updated:    11th November 2009
+
+
+
+11th November 2009 - 1.100.10101.0
+==================================
+
+Summary:
+--------
+
+This is the first public release of recls 100% .NET
+
+From here on in, it gets interesting ....
+
+=============================== End of file ================================

@@ -1,0 +1,3462 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<OSLanguageTableDump>
+  <language>
+    <IdSubLanguage>aar</IdSubLanguage >
+    <ISO639>aa</ISO639 >
+    <LanguageName>Afar afar</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>abk</IdSubLanguage >
+    <ISO639>ab</ISO639 >
+    <LanguageName>Abkhazian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ace</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Achinese</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ach</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Acoli</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ada</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Adangme</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ady</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>adyghé</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>afa</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Afro-Asiatic (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>afh</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Afrihili</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>afr</IdSubLanguage >
+    <ISO639>af</ISO639 >
+    <LanguageName>Afrikaans</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ain</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Ainu</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>aka</IdSubLanguage >
+    <ISO639>ak</ISO639 >
+    <LanguageName>Akan</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>akk</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Akkadian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>alb</IdSubLanguage >
+    <ISO639>sq</ISO639 >
+    <LanguageName>Albanian</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ale</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Aleut</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>alg</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Algonquian languages</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>alt</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Southern Altai</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>amh</IdSubLanguage >
+    <ISO639>am</ISO639 >
+    <LanguageName>Amharic</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ang</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>English Old (ca.450-1100)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>apa</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Apache languages</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ara</IdSubLanguage >
+    <ISO639>ar</ISO639 >
+    <LanguageName>Arabic</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>arc</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Aramaic</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>arg</IdSubLanguage >
+    <ISO639>an</ISO639 >
+    <LanguageName>Aragonese</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>arm</IdSubLanguage >
+    <ISO639>hy</ISO639 >
+    <LanguageName>Armenian</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>arn</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Araucanian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>arp</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Arapaho</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>art</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Artificial (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>arw</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Arawak</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>asm</IdSubLanguage >
+    <ISO639>as</ISO639 >
+    <LanguageName>Assamese</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ast</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Asturian Bable</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ath</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Athapascan languages</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>aus</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Australian languages</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ava</IdSubLanguage >
+    <ISO639>av</ISO639 >
+    <LanguageName>Avaric</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ave</IdSubLanguage >
+    <ISO639>ae</ISO639 >
+    <LanguageName>Avestan</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>awa</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Awadhi</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>aym</IdSubLanguage >
+    <ISO639>ay</ISO639 >
+    <LanguageName>Aymara</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>aze</IdSubLanguage >
+    <ISO639>az</ISO639 >
+    <LanguageName>Azerbaijani</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bad</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Banda</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bai</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Bamileke languages</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bak</IdSubLanguage >
+    <ISO639>ba</ISO639 >
+    <LanguageName>Bashkir</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bal</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Baluchi</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bam</IdSubLanguage >
+    <ISO639>bm</ISO639 >
+    <LanguageName>Bambara</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ban</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Balinese</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>baq</IdSubLanguage >
+    <ISO639>eu</ISO639 >
+    <LanguageName>Basque</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bas</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Basa</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bat</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Baltic (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bej</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Beja</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bel</IdSubLanguage >
+    <ISO639>be</ISO639 >
+    <LanguageName>Belarusian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bem</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Bemba</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ben</IdSubLanguage >
+    <ISO639>bn</ISO639 >
+    <LanguageName>Bengali</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ber</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Berber (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bho</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Bhojpuri</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bih</IdSubLanguage >
+    <ISO639>bh</ISO639 >
+    <LanguageName>Bihari</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bik</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Bikol</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bin</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Bini</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bis</IdSubLanguage >
+    <ISO639>bi</ISO639 >
+    <LanguageName>Bislama</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bla</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Siksika</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bnt</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Bantu (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bod</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Tibetan</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bos</IdSubLanguage >
+    <ISO639>bs</ISO639 >
+    <LanguageName>Bosnian</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bra</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Braj</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bre</IdSubLanguage >
+    <ISO639>br</ISO639 >
+    <LanguageName>Breton</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>btk</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Batak (Indonesia)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bua</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Buriat</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bug</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Buginese</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bul</IdSubLanguage >
+    <ISO639>bg</ISO639 >
+    <LanguageName>Bulgarian</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>bur</IdSubLanguage >
+    <ISO639>my</ISO639 >
+    <LanguageName>Burmese</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>byn</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Blin</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>cad</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Caddo</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>cai</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Central American Indian (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>car</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Carib</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>cat</IdSubLanguage >
+    <ISO639>ca</ISO639 >
+    <LanguageName>Catalan</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>cau</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Caucasian (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ceb</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Cebuano</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>cel</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Celtic (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>cha</IdSubLanguage >
+    <ISO639>ch</ISO639 >
+    <LanguageName>Chamorro</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>chb</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Chibcha</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>che</IdSubLanguage >
+    <ISO639>ce</ISO639 >
+    <LanguageName>Chechen</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>chg</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Chagatai</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>chi</IdSubLanguage >
+    <ISO639>zh</ISO639 >
+    <LanguageName>Chinese</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>chk</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Chuukese</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>chm</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Mari</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>chn</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Chinook jargon</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>cho</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Choctaw</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>chp</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Chipewyan</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>chr</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Cherokee</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>chu</IdSubLanguage >
+    <ISO639>cu</ISO639 >
+    <LanguageName>Church Slavic</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>chv</IdSubLanguage >
+    <ISO639>cv</ISO639 >
+    <LanguageName>Chuvash</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>chy</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Cheyenne</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>cmc</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Chamic languages</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>cop</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Coptic</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>cor</IdSubLanguage >
+    <ISO639>kw</ISO639 >
+    <LanguageName>Cornish</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>cos</IdSubLanguage >
+    <ISO639>co</ISO639 >
+    <LanguageName>Corsican</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>cpe</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Creoles and pidgins English based (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>cpf</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Creoles and pidgins French-based (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>cpp</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Creoles and pidgins Portuguese-based (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>cre</IdSubLanguage >
+    <ISO639>cr</ISO639 >
+    <LanguageName>Cree</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>crh</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Crimean Tatar</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>crp</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Creoles and pidgins (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>csb</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Kashubian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>cus</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Cushitic (Other)' couchitiques autres langues</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>cym</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Welsh</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>cze</IdSubLanguage >
+    <ISO639>cs</ISO639 >
+    <LanguageName>Czech</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>dak</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Dakota</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>dan</IdSubLanguage >
+    <ISO639>da</ISO639 >
+    <LanguageName>Danish</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>dar</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Dargwa</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>day</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Dayak</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>del</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Delaware</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>den</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Slave (Athapascan)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>deu</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>German</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>dgr</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Dogrib</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>din</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Dinka</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>div</IdSubLanguage >
+    <ISO639>dv</ISO639 >
+    <LanguageName>Divehi</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>doi</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Dogri</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>dra</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Dravidian (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>dua</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Duala</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>dum</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Dutch Middle (ca.1050-1350)</LanguageName >
+    <UploadEnabled></UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>dut</IdSubLanguage >
+    <ISO639>nl</ISO639 >
+    <LanguageName>Dutch</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>dyu</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Dyula</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>dzo</IdSubLanguage >
+    <ISO639>dz</ISO639 >
+    <LanguageName>Dzongkha</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>efi</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Efik</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>egy</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Egyptian (Ancient)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>eka</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Ekajuk</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>elx</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Elamite</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>eng</IdSubLanguage >
+    <ISO639>en</ISO639 >
+    <LanguageName>English</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>enm</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>English Middle (1100-1500)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>epo</IdSubLanguage >
+    <ISO639>eo</ISO639 >
+    <LanguageName>Esperanto</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>est</IdSubLanguage >
+    <ISO639>et</ISO639 >
+    <LanguageName>Estonian</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>eus</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Basque</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ewe</IdSubLanguage >
+    <ISO639>ee</ISO639 >
+    <LanguageName>Ewe</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ewo</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Ewondo</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>fan</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Fang</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>fao</IdSubLanguage >
+    <ISO639>fo</ISO639 >
+    <LanguageName>Faroese</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>fas</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Persian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>fat</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Fanti</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>fij</IdSubLanguage >
+    <ISO639>fj</ISO639 >
+    <LanguageName>Fijian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>fil</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Filipino</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>fin</IdSubLanguage >
+    <ISO639>fi</ISO639 >
+    <LanguageName>Finnish</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>fiu</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Finno-Ugrian (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>fon</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Fon</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>fra</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>French</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>fre</IdSubLanguage >
+    <ISO639>fr</ISO639 >
+    <LanguageName>French</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>frm</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>French Middle (ca.1400-1600)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>fro</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>French Old (842-ca.1400)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>fry</IdSubLanguage >
+    <ISO639>fy</ISO639 >
+    <LanguageName>Frisian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ful</IdSubLanguage >
+    <ISO639>ff</ISO639 >
+    <LanguageName>Fulah</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>fur</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Friulian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>gaa</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Ga</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>gay</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Gayo</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>gba</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Gbaya</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>gem</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Germanic (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>geo</IdSubLanguage >
+    <ISO639>ka</ISO639 >
+    <LanguageName>Georgian</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ger</IdSubLanguage >
+    <ISO639>de</ISO639 >
+    <LanguageName>German</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>gez</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Geez</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>gil</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Gilbertese</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>gla</IdSubLanguage >
+    <ISO639>gd</ISO639 >
+    <LanguageName>Gaelic</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>gle</IdSubLanguage >
+    <ISO639>ga</ISO639 >
+    <LanguageName>Irish</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>glg</IdSubLanguage >
+    <ISO639>gl</ISO639 >
+    <LanguageName>Galician</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>glv</IdSubLanguage >
+    <ISO639>gv</ISO639 >
+    <LanguageName>Manx</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>gmh</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>German Middle High (ca.1050-1500)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>goh</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>German Old High (ca.750-1050)</LanguageName >
+    <UploadEnabled></UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>gon</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Gondi</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>gor</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Gorontalo</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>got</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Gothic</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>grb</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Grebo</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>grc</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Greek Ancient (to 1453)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ell</IdSubLanguage >
+    <ISO639>el</ISO639 >
+    <LanguageName>Greek</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>grn</IdSubLanguage >
+    <ISO639>gn</ISO639 >
+    <LanguageName>Guarani</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>guj</IdSubLanguage >
+    <ISO639>gu</ISO639 >
+    <LanguageName>Gujarati</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>gwi</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Gwich´</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>hai</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Haida</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>hat</IdSubLanguage >
+    <ISO639>ht</ISO639 >
+    <LanguageName>Haitian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>hau</IdSubLanguage >
+    <ISO639>ha</ISO639 >
+    <LanguageName>Hausa</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>haw</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Hawaiian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>heb</IdSubLanguage >
+    <ISO639>he</ISO639 >
+    <LanguageName>Hebrew</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>her</IdSubLanguage >
+    <ISO639>hz</ISO639 >
+    <LanguageName>Herero</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>hil</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Hiligaynon</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>him</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Himachali</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>hin</IdSubLanguage >
+    <ISO639>hi</ISO639 >
+    <LanguageName>Hindi</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>hit</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Hittite</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>hmn</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Hmong</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>hmo</IdSubLanguage >
+    <ISO639>ho</ISO639 >
+    <LanguageName>Hiri Motu</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>hrv</IdSubLanguage >
+    <ISO639>hr</ISO639 >
+    <LanguageName>Croatian</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>hun</IdSubLanguage >
+    <ISO639>hu</ISO639 >
+    <LanguageName>Hungarian</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>hup</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Hupa</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>hye</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Armenian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>iba</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Iban</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ibo</IdSubLanguage >
+    <ISO639>ig</ISO639 >
+    <LanguageName>Igbo</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ice</IdSubLanguage >
+    <ISO639>is</ISO639 >
+    <LanguageName>Icelandic</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ido</IdSubLanguage >
+    <ISO639>io</ISO639 >
+    <LanguageName>Ido</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>iii</IdSubLanguage >
+    <ISO639>ii</ISO639 >
+    <LanguageName>Sichuan Yi</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ijo</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Ijo</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>iku</IdSubLanguage >
+    <ISO639>iu</ISO639 >
+    <LanguageName>Inuktitut</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ile</IdSubLanguage >
+    <ISO639>ie</ISO639 >
+    <LanguageName>Interlingue</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ilo</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Iloko</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ina</IdSubLanguage >
+    <ISO639>ia</ISO639 >
+    <LanguageName>Interlingua (International Auxiliary Language Asso</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>inc</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Indic (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ind</IdSubLanguage >
+    <ISO639>id</ISO639 >
+    <LanguageName>Indonesian</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ine</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Indo-European (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>inh</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Ingush</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ipk</IdSubLanguage >
+    <ISO639>ik</ISO639 >
+    <LanguageName>Inupiaq</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ira</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Iranian (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>iro</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Iroquoian languages</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>isl</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Icelandic</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ita</IdSubLanguage >
+    <ISO639>it</ISO639 >
+    <LanguageName>Italian</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>jav</IdSubLanguage >
+    <ISO639>jv</ISO639 >
+    <LanguageName>Javanese</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>jpn</IdSubLanguage >
+    <ISO639>ja</ISO639 >
+    <LanguageName>Japanese</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>jpr</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Judeo-Persian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>jrb</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Judeo-Arabic</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kaa</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Kara-Kalpak</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kab</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Kabyle</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kac</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Kachin</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kal</IdSubLanguage >
+    <ISO639>kl</ISO639 >
+    <LanguageName>Kalaallisut</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kam</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Kamba</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kan</IdSubLanguage >
+    <ISO639>kn</ISO639 >
+    <LanguageName>Kannada</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kar</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Karen</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kas</IdSubLanguage >
+    <ISO639>ks</ISO639 >
+    <LanguageName>Kashmiri</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kat</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Georgian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kau</IdSubLanguage >
+    <ISO639>kr</ISO639 >
+    <LanguageName>Kanuri</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kaw</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Kawi</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kaz</IdSubLanguage >
+    <ISO639>kk</ISO639 >
+    <LanguageName>Kazakh</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kbd</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Kabardian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kha</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Khasi</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>khi</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Khoisan (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>khm</IdSubLanguage >
+    <ISO639>km</ISO639 >
+    <LanguageName>Khmer</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kho</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Khotanese</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kik</IdSubLanguage >
+    <ISO639>ki</ISO639 >
+    <LanguageName>Kikuyu</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kin</IdSubLanguage >
+    <ISO639>rw</ISO639 >
+    <LanguageName>Kinyarwanda</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kir</IdSubLanguage >
+    <ISO639>ky</ISO639 >
+    <LanguageName>Kirghiz</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kmb</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Kimbundu</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kok</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Konkani</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kom</IdSubLanguage >
+    <ISO639>kv</ISO639 >
+    <LanguageName>Komi</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kon</IdSubLanguage >
+    <ISO639>kg</ISO639 >
+    <LanguageName>Kongo</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kor</IdSubLanguage >
+    <ISO639>ko</ISO639 >
+    <LanguageName>Korean</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kos</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Kosraean</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kpe</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Kpelle</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>krc</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Karachay-Balkar</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kro</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Kru</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kru</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Kurukh</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kua</IdSubLanguage >
+    <ISO639>kj</ISO639 >
+    <LanguageName>Kuanyama</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kum</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Kumyk</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kur</IdSubLanguage >
+    <ISO639>ku</ISO639 >
+    <LanguageName>Kurdish</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>kut</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Kutenai</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>lad</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Ladino</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>lah</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Lahnda</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>lam</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Lamba</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>lao</IdSubLanguage >
+    <ISO639>lo</ISO639 >
+    <LanguageName>Lao</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>lat</IdSubLanguage >
+    <ISO639>la</ISO639 >
+    <LanguageName>Latin</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>lav</IdSubLanguage >
+    <ISO639>lv</ISO639 >
+    <LanguageName>Latvian</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>lez</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Lezghian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>lim</IdSubLanguage >
+    <ISO639>li</ISO639 >
+    <LanguageName>Limburgan</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>lin</IdSubLanguage >
+    <ISO639>ln</ISO639 >
+    <LanguageName>Lingala</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>lit</IdSubLanguage >
+    <ISO639>lt</ISO639 >
+    <LanguageName>Lithuanian</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>lol</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Mongo</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>loz</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Lozi</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ltz</IdSubLanguage >
+    <ISO639>lb</ISO639 >
+    <LanguageName>Luxembourgish</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>lua</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Luba-Lulua</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>lub</IdSubLanguage >
+    <ISO639>lu</ISO639 >
+    <LanguageName>Luba-Katanga</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>lug</IdSubLanguage >
+    <ISO639>lg</ISO639 >
+    <LanguageName>Ganda</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>lui</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Luiseno</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>lun</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Lunda</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>luo</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Luo (Kenya and Tanzania)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>lus</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>lushai</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mac</IdSubLanguage >
+    <ISO639>mk</ISO639 >
+    <LanguageName>Macedonian</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mad</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Madurese</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mag</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Magahi</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mah</IdSubLanguage >
+    <ISO639>mh</ISO639 >
+    <LanguageName>Marshallese</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mai</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Maithili</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mak</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Makasar</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mal</IdSubLanguage >
+    <ISO639>ml</ISO639 >
+    <LanguageName>Malayalam</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>man</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Mandingo</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mao</IdSubLanguage >
+    <ISO639>mi</ISO639 >
+    <LanguageName>Maori</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>map</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Austronesian (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mar</IdSubLanguage >
+    <ISO639>mr</ISO639 >
+    <LanguageName>Marathi</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mas</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Masai</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>may</IdSubLanguage >
+    <ISO639>ms</ISO639 >
+    <LanguageName>Malay</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mdf</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Moksha</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mdr</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Mandar</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>men</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Mende</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mga</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Irish Middle (900-1200)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mic</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Mi'kmaq</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>min</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Minangkabau</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mis</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Miscellaneous languages</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mkd</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Macedonian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mkh</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Mon-Khmer (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mlg</IdSubLanguage >
+    <ISO639>mg</ISO639 >
+    <LanguageName>Malagasy</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mlt</IdSubLanguage >
+    <ISO639>mt</ISO639 >
+    <LanguageName>Maltese</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mnc</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Manchu</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mni</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Manipuri</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mno</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Manobo languages</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>moh</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Mohawk</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mol</IdSubLanguage >
+    <ISO639>mo</ISO639 >
+    <LanguageName>Moldavian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mon</IdSubLanguage >
+    <ISO639>mn</ISO639 >
+    <LanguageName>Mongolian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mos</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Mossi</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mri</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Maori</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>msa</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Malay</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mwl</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Mirandese</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mul</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Multiple languages</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mun</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Munda languages</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mus</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Creek</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mwr</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Marwari</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>mya</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Burmese</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>myn</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Mayan languages</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>myv</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Erzya</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nah</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Nahuatl</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nai</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>North American Indian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nap</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Neapolitan</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nau</IdSubLanguage >
+    <ISO639>na</ISO639 >
+    <LanguageName>Nauru</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nav</IdSubLanguage >
+    <ISO639>nv</ISO639 >
+    <LanguageName>Navajo</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nbl</IdSubLanguage >
+    <ISO639>nr</ISO639 >
+    <LanguageName>Ndebele South</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nde</IdSubLanguage >
+    <ISO639>nd</ISO639 >
+    <LanguageName>Ndebele North</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ndo</IdSubLanguage >
+    <ISO639>ng</ISO639 >
+    <LanguageName>Ndonga</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nds</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Low German</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nep</IdSubLanguage >
+    <ISO639>ne</ISO639 >
+    <LanguageName>Nepali</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>new</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Nepal Bhasa</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nia</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Nias</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nic</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Niger-Kordofanian (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>niu</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Niuean</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nld</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Dutch</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nno</IdSubLanguage >
+    <ISO639>nn</ISO639 >
+    <LanguageName>Norwegian Nynorsk</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nob</IdSubLanguage >
+    <ISO639>nb</ISO639 >
+    <LanguageName>Norwegian Bokmal</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nog</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Nogai</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>non</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Norse Old</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nor</IdSubLanguage >
+    <ISO639>no</ISO639 >
+    <LanguageName>Norwegian</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nso</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Northern Sotho</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nub</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Nubian languages</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nwc</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Classical Newari</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nya</IdSubLanguage >
+    <ISO639>ny</ISO639 >
+    <LanguageName>Chichewa</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nym</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Nyamwezi</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nyn</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Nyankole</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nyo</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Nyoro</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>nzi</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Nzima</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>oci</IdSubLanguage >
+    <ISO639>oc</ISO639 >
+    <LanguageName>Occitan</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>oji</IdSubLanguage >
+    <ISO639>oj</ISO639 >
+    <LanguageName>Ojibwa</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ori</IdSubLanguage >
+    <ISO639>or</ISO639 >
+    <LanguageName>Oriya</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>orm</IdSubLanguage >
+    <ISO639>om</ISO639 >
+    <LanguageName>Oromo</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>osa</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Osage</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>oss</IdSubLanguage >
+    <ISO639>os</ISO639 >
+    <LanguageName>Ossetian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ota</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Turkish Ottoman (1500-1928)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>oto</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Otomian languages</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>paa</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Papuan (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>pag</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Pangasinan</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>pal</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Pahlavi</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>pam</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Pampanga</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>pan</IdSubLanguage >
+    <ISO639>pa</ISO639 >
+    <LanguageName>Panjabi</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>pap</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Papiamento</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>pau</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Palauan</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>peo</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Persian Old (ca.600-400 B.C.)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>per</IdSubLanguage >
+    <ISO639>fa</ISO639 >
+    <LanguageName>Persian</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>phi</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Philippine (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>phn</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Phoenician</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>pli</IdSubLanguage >
+    <ISO639>pi</ISO639 >
+    <LanguageName>Pali</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>pol</IdSubLanguage >
+    <ISO639>pl</ISO639 >
+    <LanguageName>Polish</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>pon</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Pohnpeian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>por</IdSubLanguage >
+    <ISO639>pt</ISO639 >
+    <LanguageName>Portuguese</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>pra</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Prakrit languages</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>pro</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Provençal, Old (to 1500)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>pus</IdSubLanguage >
+    <ISO639>ps</ISO639 >
+    <LanguageName>Pushto</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>que</IdSubLanguage >
+    <ISO639>qu</ISO639 >
+    <LanguageName>Quechua</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>raj</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Rajasthani</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>rap</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Rapanui</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>rar</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Rarotongan</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>roa</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Romance (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>roh</IdSubLanguage >
+    <ISO639>rm</ISO639 >
+    <LanguageName>Raeto-Romance</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>rom</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Romany</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ron</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Romanian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>run</IdSubLanguage >
+    <ISO639>rn</ISO639 >
+    <LanguageName>Rundi</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>rup</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Aromanian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>rus</IdSubLanguage >
+    <ISO639>ru</ISO639 >
+    <LanguageName>Russian</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sad</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Sandawe</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sag</IdSubLanguage >
+    <ISO639>sg</ISO639 >
+    <LanguageName>Sango</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sah</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Yakut</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sai</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>South American Indian (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sal</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Salishan languages</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sam</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Samaritan Aramaic</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>san</IdSubLanguage >
+    <ISO639>sa</ISO639 >
+    <LanguageName>Sanskrit</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sas</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Sasak</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sat</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Santali</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>scc</IdSubLanguage >
+    <ISO639>sr</ISO639 >
+    <LanguageName>Serbian</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>scn</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Sicilian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sco</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Scots</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>scr</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Croatian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sel</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Selkup</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sem</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Semitic (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sga</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Irish Old (to 900)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sgn</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Sign Languages</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>shn</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Shan</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sid</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Sidamo</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sin</IdSubLanguage >
+    <ISO639>si</ISO639 >
+    <LanguageName>Sinhalese</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sio</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Siouan languages</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sit</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Sino-Tibetan (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sla</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Slavic (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>slk</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Slovak</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>slo</IdSubLanguage >
+    <ISO639>sk</ISO639 >
+    <LanguageName>Slovak</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>slv</IdSubLanguage >
+    <ISO639>sl</ISO639 >
+    <LanguageName>Slovenian</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sma</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Southern Sami</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sme</IdSubLanguage >
+    <ISO639>se</ISO639 >
+    <LanguageName>Northern Sami</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>smi</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Sami languages (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>smj</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Lule Sami</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>smn</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Inari Sami</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>smo</IdSubLanguage >
+    <ISO639>sm</ISO639 >
+    <LanguageName>Samoan</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sms</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Skolt Sami</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sna</IdSubLanguage >
+    <ISO639>sn</ISO639 >
+    <LanguageName>Shona</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>snd</IdSubLanguage >
+    <ISO639>sd</ISO639 >
+    <LanguageName>Sindhi</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>snk</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Soninke</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sog</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Sogdian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>som</IdSubLanguage >
+    <ISO639>so</ISO639 >
+    <LanguageName>Somali</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>son</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Songhai</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sot</IdSubLanguage >
+    <ISO639>st</ISO639 >
+    <LanguageName>Sotho Southern</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>spa</IdSubLanguage >
+    <ISO639>es</ISO639 >
+    <LanguageName>Spanish</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sqi</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Albanian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>srd</IdSubLanguage >
+    <ISO639>sc</ISO639 >
+    <LanguageName>Sardinian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>srp</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Serbian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>srr</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Serer</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ssa</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Nilo-Saharan (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ssw</IdSubLanguage >
+    <ISO639>ss</ISO639 >
+    <LanguageName>Swati</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>suk</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Sukuma</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sun</IdSubLanguage >
+    <ISO639>su</ISO639 >
+    <LanguageName>Sundanese</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sus</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Susu</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>sux</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Sumerian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>swa</IdSubLanguage >
+    <ISO639>sw</ISO639 >
+    <LanguageName>Swahili</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>swe</IdSubLanguage >
+    <ISO639>sv</ISO639 >
+    <LanguageName>Swedish</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>syr</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Syriac</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tah</IdSubLanguage >
+    <ISO639>ty</ISO639 >
+    <LanguageName>Tahitian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tai</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Tai (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tam</IdSubLanguage >
+    <ISO639>ta</ISO639 >
+    <LanguageName>Tamil</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tat</IdSubLanguage >
+    <ISO639>tt</ISO639 >
+    <LanguageName>Tatar</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tel</IdSubLanguage >
+    <ISO639>te</ISO639 >
+    <LanguageName>Telugu</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tem</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Timne</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ter</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Tereno</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tet</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Tetum</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tgk</IdSubLanguage >
+    <ISO639>tg</ISO639 >
+    <LanguageName>Tajik</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tgl</IdSubLanguage >
+    <ISO639>tl</ISO639 >
+    <LanguageName>Tagalog</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tha</IdSubLanguage >
+    <ISO639>th</ISO639 >
+    <LanguageName>Thai</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tib</IdSubLanguage >
+    <ISO639>bo</ISO639 >
+    <LanguageName>Tibetan</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tig</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Tigre</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tir</IdSubLanguage >
+    <ISO639>ti</ISO639 >
+    <LanguageName>Tigrinya</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tiv</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Tiv</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tkl</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Tokelau</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tlh</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Klingon</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tli</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Tlingit</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tmh</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Tamashek</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tog</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Tonga (Nyasa)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ton</IdSubLanguage >
+    <ISO639>to</ISO639 >
+    <LanguageName>Tonga (Tonga Islands)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tpi</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Tok Pisin</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tsi</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Tsimshian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tsn</IdSubLanguage >
+    <ISO639>tn</ISO639 >
+    <LanguageName>Tswana</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tso</IdSubLanguage >
+    <ISO639>ts</ISO639 >
+    <LanguageName>Tsonga</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tuk</IdSubLanguage >
+    <ISO639>tk</ISO639 >
+    <LanguageName>Turkmen</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tum</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Tumbuka</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tup</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Tupi languages</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tur</IdSubLanguage >
+    <ISO639>tr</ISO639 >
+    <LanguageName>Turkish</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tut</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Altaic (Other)</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tvl</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Tuvalu</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>twi</IdSubLanguage >
+    <ISO639>tw</ISO639 >
+    <LanguageName>Twi</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>tyv</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Tuvinian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>udm</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Udmurt</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>uga</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Ugaritic</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>uig</IdSubLanguage >
+    <ISO639>ug</ISO639 >
+    <LanguageName>Uighur</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ukr</IdSubLanguage >
+    <ISO639>uk</ISO639 >
+    <LanguageName>Ukrainian</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>umb</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Umbundu</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>und</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Undetermined</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>urd</IdSubLanguage >
+    <ISO639>ur</ISO639 >
+    <LanguageName>Urdu</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>uzb</IdSubLanguage >
+    <ISO639>uz</ISO639 >
+    <LanguageName>Uzbek</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>vai</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Vai</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ven</IdSubLanguage >
+    <ISO639>ve</ISO639 >
+    <LanguageName>Venda</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>vie</IdSubLanguage >
+    <ISO639>vi</ISO639 >
+    <LanguageName>Vietnamese</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>vol</IdSubLanguage >
+    <ISO639>vo</ISO639 >
+    <LanguageName>Volapük</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>vot</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Votic</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>wak</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Wakashan languages</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>wal</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Walamo</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>war</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Waray</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>was</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Washo</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>wel</IdSubLanguage >
+    <ISO639>cy</ISO639 >
+    <LanguageName>Welsh</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>wen</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Sorbian languages</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>wln</IdSubLanguage >
+    <ISO639>wa</ISO639 >
+    <LanguageName>Walloon</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>wol</IdSubLanguage >
+    <ISO639>wo</ISO639 >
+    <LanguageName>Wolof</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>xal</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Kalmyk</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>xho</IdSubLanguage >
+    <ISO639>xh</ISO639 >
+    <LanguageName>Xhosa</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>yao</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Yao</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>yap</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Yapese</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>yid</IdSubLanguage >
+    <ISO639>yi</ISO639 >
+    <LanguageName>Yiddish</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>yor</IdSubLanguage >
+    <ISO639>yo</ISO639 >
+    <LanguageName>Yoruba</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ypk</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Yupik languages</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>zap</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Zapotec</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>zen</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Zenaga</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>zha</IdSubLanguage >
+    <ISO639>za</ISO639 >
+    <LanguageName>Zhuang</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>zho</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Chinese chinois</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>znd</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Zande</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>zul</IdSubLanguage >
+    <ISO639>zu</ISO639 >
+    <LanguageName>Zulu</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>zun</IdSubLanguage >
+    <ISO639></ISO639 >
+    <LanguageName>Zuni</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>rum</IdSubLanguage >
+    <ISO639>ro</ISO639 >
+    <LanguageName>Romanian</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>pob</IdSubLanguage >
+    <ISO639>pb</ISO639 >
+    <LanguageName>Brazilian</LanguageName >
+    <UploadEnabled>1</UploadEnabled >
+    <WebEnabled>1</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>unk</IdSubLanguage >
+    <ISO639>un</ISO639 >
+    <LanguageName>Unknown</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+  <language>
+    <IdSubLanguage>ass</IdSubLanguage >
+    <ISO639>ay</ISO639 >
+    <LanguageName>Assyrian</LanguageName >
+    <UploadEnabled>0</UploadEnabled >
+    <WebEnabled>0</WebEnabled >
+  </language>
+</OSLanguageTableDump>
+
